@@ -1,7 +1,23 @@
 {
-  "name": "react-app",
-  "version": "0.1.0",
-  "private": true,
+  "name": "react-split-screen-component",
+  "version": "1.0.0",
+  "description": "Advanced React layout component showcasing modern development patterns and CSS-in-JS architecture",
+  "keywords": [
+    "react",
+    "layout",
+    "component",
+    "styled-components",
+    "split-screen",
+    "responsive"
+  ],
+  "author": "[Your Name] <[your-email@example.com]>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/[username]/react-split-screen-component.git"
+  },
+  "homepage": "https://[username].github.io/react-split-screen-component",
+  "private": false,
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
